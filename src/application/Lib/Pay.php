@@ -8,6 +8,6 @@ class Pay
 {
     public function run()
     {
-        echo __CLASS__;
+        echo __CLASS__ . "v2";
     }
 }

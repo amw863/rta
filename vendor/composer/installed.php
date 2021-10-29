@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'wxb/helloworld',
+    'reference' => 'c6906893af46a901cb5b5548df21a7a3ab9f9c75',
+    'name' => 'amw863/helloworld',
   ),
   'versions' => 
   array (
-    'wxb/helloworld' => 
+    'amw863/helloworld' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'c6906893af46a901cb5b5548df21a7a3ab9f9c75',
     ),
   ),
 );
