@@ -1,0 +1,19 @@
+{
+    "name": "wxb/helloworld",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wxb",
+            "email": "test@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\":"src/application"
+        }
+    }
+}
